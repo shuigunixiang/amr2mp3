@@ -1,3 +1,4 @@
 ##############
-针对某个目录下的amr文件 递归转换为MP3
-使用 ffmpeg 
+閽堝鏌愪釜鐩綍涓嬬殑amr鏂囦欢 閫掑綊杞崲涓篗P3
+浣跨敤 ffmpeg 
+ ./amrconvertmp3.sh /home/myamrs
